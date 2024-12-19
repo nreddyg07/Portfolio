@@ -1,0 +1,6 @@
+/* Main stylesheet that imports all other stylesheets */
+@import 'base.css';
+@import 'components.css';
+@import 'sections.css';
+@import 'animations.css';
+@import 'responsive.css';
